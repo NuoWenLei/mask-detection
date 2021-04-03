@@ -1,4 +1,3 @@
-from model import Mask_Predictor
 from mtcnn import MTCNN
 from PIL import Image, ImageDraw
 import tkinter as tk, cv2, numpy as np, keras
