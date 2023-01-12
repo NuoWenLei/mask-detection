@@ -3,6 +3,9 @@
 ## Goal
 - "Look" at everyone's face in a photo and check if they are wearing a mask
 
+## Web App Link
+* https://mask-detector-web.herokuapp.com/
+
 ## Dataset
 - Two datasets both sourced from Kaggle
   > COVID Face Mask Detection Dataset
